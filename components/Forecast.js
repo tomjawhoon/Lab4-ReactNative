@@ -29,6 +29,8 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'space-around'
     },
+
+    
     tempContainer: {
         flexDirection: 'row',
         justifyContent: "center",
